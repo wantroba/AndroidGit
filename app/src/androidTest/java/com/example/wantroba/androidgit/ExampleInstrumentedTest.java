@@ -23,4 +23,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.wantroba.androidgit", appContext.getPackageName());
     }
+
+
 }
