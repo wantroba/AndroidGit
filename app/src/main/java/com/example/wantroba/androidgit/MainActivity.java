@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity
         final View.OnClickListener onClickListener = new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(getApplicationContext(),"terceira toast direto no android studio",Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),"segunda alteracao direto no android studio para branch wantroba depois de um commit antes do push",Toast.LENGTH_SHORT).show();
             }
         };
 
